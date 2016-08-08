@@ -1,3 +1,10 @@
+What is Vagrant?
+
+Vagrant is a "tool for building and distributing development environments". It works with virtualization software such as VirtualBox to provide a virtual machine that is sandboxed away from your local environment.
+
+
+
+
 # What's included?
 Vagrant provisioned with
 * Ubuntu 14.04 (64bit)
