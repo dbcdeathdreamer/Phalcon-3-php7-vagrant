@@ -2,7 +2,7 @@
 
 Vagrant is a "tool for building and distributing development environments". It works with virtualization software such as VirtualBox to provide a virtual machine that is sandboxed away from your local environment.
 
-#$ The First Vagrant Up
+# The First Vagrant Up
 
 1. Start with any operating system.
 2. Install VirtualBox
