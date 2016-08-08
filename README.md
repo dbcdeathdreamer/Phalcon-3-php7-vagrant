@@ -9,7 +9,7 @@ Vagrant is a "tool for building and distributing development environments". It w
 3. Install Vagrant
 vagrant will now be available as a command in your terminal, try it out.
 Note: If Vagrant is already installed, use vagrant -v to check the version. You may want to consider upgrading if a much older version is in use.
-4. Clone or extract the Varying Vagrant Vagrants project into a local directory
+4. Clone or extract the Phalcon-3-php7-vagrant project into a local directory
 5. Change into the new directory with cd (path to your vagrant folder)
 5. Start the Vagrant environment with vagrant up
 
